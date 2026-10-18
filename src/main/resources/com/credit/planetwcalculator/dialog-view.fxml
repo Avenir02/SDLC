@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<!-- Разметка диалогового окна ввода веса -->
+<VBox alignment="CENTER_LEFT" spacing="15.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1"
+  fx:controller="com.credit.planetwcalculator.controller.DialogController">
+  <padding>
+    <Insets bottom="20.0" left="20.0" right="20.0" top="20.0"/>
+  </padding>
+
+  <!-- Текстовое приглашение к вводу -->
+  <Label text="Введите ваш вес на Земле (кг):"/>
+
+  <!-- Поле ввода веса -->
+  <TextField fx:id="weightField" promptText="Например: 70.5"/>
+
+  <!-- Панель кнопок управления -->
+  <HBox alignment="CENTER_RIGHT" spacing="10.0">
+    <Button text="ОК" onAction="#handleOk" prefWidth="80.0"/>
+    <Button text="Отмена" onAction="#handleCancel" prefWidth="80.0"/>
+  </HBox>
+
+</VBox>
