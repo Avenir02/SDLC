@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b877199-b6db-4e76-9b99-e8cf189665c1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adr/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adr/adr-template-en.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adr/adr-template.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/quality-attributes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/srs-vs-sdd.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/standards.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/terminology.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/traceability.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdd/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdd/sdd-template-en.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdd/sdd-template.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdd/view-template-en.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdd/view-template.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/srs/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/srs/req-template-en.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/srs/req-template.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/srs/srs-template-en.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/srs/srs-template.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="bSnMxIHX" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.3396910490555136" />
+      <entry key="MS500" value="2.3835390272279247" />
+      <entry key="S2" value="3.179028250754637" />
+      <entry key="S5" value="5.760429144094154" />
+      <entry key="S10" value="10.179131730708738" />
+      <entry key="S30" value="18.422009122934533" />
+      <entry key="S60" value="24.806816119656254" />
+      <entry key="M2" value="40.92792123293722" />
+      <entry key="M5" value="93.18942773173535" />
+      <entry key="M10" value="147.459143403248" />
+      <entry key="M15" value="176.61943586742342" />
+      <entry key="M30" value="214.70139597940118" />
+      <entry key="H1" value="238.07020903683113" />
+      <entry key="H2" value="251.05326046528435" />
+      <entry key="H4" value="257.90121829666435" />
+      <entry key="D1" value="263.79901316505556" />
+      <entry key="W1" value="264.82798730878625" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.4400082673393885E-138" />
+      <entry key="MS500" value="2.7019231794910837E-28" />
+      <entry key="S2" value="1.2820892220227442E-7" />
+      <entry key="S5" value="0.0017505208975972261" />
+      <entry key="S10" value="0.041839264245568615" />
+      <entry key="S30" value="0.35246012589938336" />
+      <entry key="S60" value="0.6965848475279778" />
+      <entry key="M2" value="1.3095342756355506" />
+      <entry key="M5" value="2.5660215489766482" />
+      <entry key="M10" value="3.4906143944592127" />
+      <entry key="M15" value="3.9114727448945663" />
+      <entry key="M30" value="4.409059933542409" />
+      <entry key="H1" value="4.691677879131489" />
+      <entry key="H2" value="4.842463842150193" />
+      <entry key="H4" value="4.9203669234027165" />
+      <entry key="D1" value="4.986605833846451" />
+      <entry key="W1" value="4.9980835358408555" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.2215579977527358" />
+      <entry key="MS500" value="2.2856209844648396" />
+      <entry key="S2" value="3.142427981988454" />
+      <entry key="S5" value="5.740569500826405" />
+      <entry key="S10" value="10.204903655979594" />
+      <entry key="S30" value="18.765187790803594" />
+      <entry key="S60" value="25.494970646443292" />
+      <entry key="M2" value="42.22603912975863" />
+      <entry key="M5" value="95.74189536347322" />
+      <entry key="M10" value="150.93881818729932" />
+      <entry key="M15" value="180.522220718861" />
+      <entry key="M30" value="219.10523839154885" />
+      <entry key="H1" value="242.7590187053568" />
+      <entry key="H2" value="255.89421934955638" />
+      <entry key="H4" value="262.82081421761785" />
+      <entry key="D1" value="268.78548785391945" />
+      <entry key="W1" value="269.8260520439058" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3KM4dlyrmiziif9kXhEGR0BFpNp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CidrDebugProfileConversion": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "lab2",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+  }
+}]]></component>
+  <component name="SelectedDebugProfileService">{
+  &quot;profileIdByStamp&quot;: [],
+  &quot;modificationCount&quot;: 1
+}</component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b877199-b6db-4e76-9b99-e8cf189665c1" name="Changes" comment="" />
+      <created>1791354194758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791354194758</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
