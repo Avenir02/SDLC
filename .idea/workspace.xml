@@ -9,27 +9,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b877199-b6db-4e76-9b99-e8cf189665c1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adr/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adr/adr-template-en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adr/adr-template.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/quality-attributes.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/srs-vs-sdd.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/standards.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/terminology.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/traceability.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdd/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdd/sdd-template-en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdd/sdd-template.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdd/view-template-en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdd/view-template.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/srs/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/srs/req-template-en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/srs/req-template.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/srs/srs-template-en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/srs/srs-template.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,61 +28,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.3396910490555136" />
-      <entry key="MS500" value="2.3835390272279247" />
-      <entry key="S2" value="3.179028250754637" />
-      <entry key="S5" value="5.760429144094154" />
-      <entry key="S10" value="10.179131730708738" />
-      <entry key="S30" value="18.422009122934533" />
-      <entry key="S60" value="24.806816119656254" />
-      <entry key="M2" value="40.92792123293722" />
-      <entry key="M5" value="93.18942773173535" />
-      <entry key="M10" value="147.459143403248" />
-      <entry key="M15" value="176.61943586742342" />
-      <entry key="M30" value="214.70139597940118" />
-      <entry key="H1" value="238.07020903683113" />
-      <entry key="H2" value="251.05326046528435" />
-      <entry key="H4" value="257.90121829666435" />
-      <entry key="D1" value="263.79901316505556" />
-      <entry key="W1" value="264.82798730878625" />
+      <entry key="MS100" value="1.0008383045138611" />
+      <entry key="MS500" value="1.3468511090972213" />
+      <entry key="S2" value="2.48789851494907" />
+      <entry key="S5" value="3.2144164693932153" />
+      <entry key="S10" value="3.7205872777502336" />
+      <entry key="S30" value="6.743541097204614" />
+      <entry key="S60" value="11.285355318712742" />
+      <entry key="M2" value="18.155526885314753" />
+      <entry key="M5" value="27.947648930274642" />
+      <entry key="M10" value="37.747094348205515" />
+      <entry key="M15" value="53.60593854740595" />
+      <entry key="M30" value="112.54439532392625" />
+      <entry key="H1" value="191.74948821234332" />
+      <entry key="H2" value="258.3884781817266" />
+      <entry key="H4" value="301.87790222544163" />
+      <entry key="D1" value="344.64338305299697" />
+      <entry key="W1" value="352.6459412477187" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.4400082673393885E-138" />
-      <entry key="MS500" value="2.7019231794910837E-28" />
-      <entry key="S2" value="1.2820892220227442E-7" />
-      <entry key="S5" value="0.0017505208975972261" />
-      <entry key="S10" value="0.041839264245568615" />
-      <entry key="S30" value="0.35246012589938336" />
-      <entry key="S60" value="0.6965848475279778" />
-      <entry key="M2" value="1.3095342756355506" />
-      <entry key="M5" value="2.5660215489766482" />
-      <entry key="M10" value="3.4906143944592127" />
-      <entry key="M15" value="3.9114727448945663" />
-      <entry key="M30" value="4.409059933542409" />
-      <entry key="H1" value="4.691677879131489" />
-      <entry key="H2" value="4.842463842150193" />
-      <entry key="H4" value="4.9203669234027165" />
-      <entry key="D1" value="4.986605833846451" />
-      <entry key="W1" value="4.9980835358408555" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="4.368973628276998E-192" />
+      <entry key="S10" value="2.259079762832044E-96" />
+      <entry key="S30" value="1.865313829745304E-32" />
+      <entry key="S60" value="2.0735456965041296E-16" />
+      <entry key="M2" value="2.6206429445575926E-8" />
+      <entry key="M5" value="0.0024967099803503176" />
+      <entry key="M10" value="0.12701532128582052" />
+      <entry key="M15" value="0.4787515534181726" />
+      <entry key="M30" value="1.8216451518489376" />
+      <entry key="H1" value="3.5664510768520685" />
+      <entry key="H2" value="4.9949365100271494" />
+      <entry key="H4" value="5.912614905174095" />
+      <entry key="D1" value="6.805711110132344" />
+      <entry key="W1" value="6.971906613032165" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.2215579977527358" />
-      <entry key="MS500" value="2.2856209844648396" />
-      <entry key="S2" value="3.142427981988454" />
-      <entry key="S5" value="5.740569500826405" />
-      <entry key="S10" value="10.204903655979594" />
-      <entry key="S30" value="18.765187790803594" />
-      <entry key="S60" value="25.494970646443292" />
-      <entry key="M2" value="42.22603912975863" />
-      <entry key="M5" value="95.74189536347322" />
-      <entry key="M10" value="150.93881818729932" />
-      <entry key="M15" value="180.522220718861" />
-      <entry key="M30" value="219.10523839154885" />
-      <entry key="H1" value="242.7590187053568" />
-      <entry key="H2" value="255.89421934955638" />
-      <entry key="H4" value="262.82081421761785" />
-      <entry key="D1" value="268.78548785391945" />
-      <entry key="W1" value="269.8260520439058" />
+      <entry key="MS100" value="0.8652977957108131" />
+      <entry key="MS500" value="1.3109455558689165" />
+      <entry key="S2" value="2.469762288281324" />
+      <entry key="S5" value="3.20379091424636" />
+      <entry key="S10" value="3.714093746085163" />
+      <entry key="S30" value="6.739131865852014" />
+      <entry key="S60" value="11.281602601528123" />
+      <entry key="M2" value="18.152787595172274" />
+      <entry key="M5" value="27.94866588126192" />
+      <entry key="M10" value="37.87290436703153" />
+      <entry key="M15" value="54.0831118248555" />
+      <entry key="M30" value="114.36372644135301" />
+      <entry key="H1" value="195.31375784514103" />
+      <entry key="H2" value="263.3818959681552" />
+      <entry key="H4" value="307.7896187635338" />
+      <entry key="D1" value="351.44892172780334" />
+      <entry key="W1" value="359.6178226211967" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -126,7 +107,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "lab2",
+    "git-widget-placeholder": "lab3",
     "nodejs_package_manager_path": "npm",
     "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
   }
